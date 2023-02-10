@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GunShop
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f443b7cd51e618742bc7c166fd763d6b, type: 3}
+    - {fileID: 2800000, guid: 10f4e85b278da7444a6c6bb561d9a128, type: 3}
+    - {fileID: 2800000, guid: 39254d5108ef9ee43b6e4054d882acdd, type: 3}
+    - {fileID: 2800000, guid: be9164643a8f5e44aa2e096d1bb9fd25, type: 3}
+    - {fileID: 2800000, guid: af807ed0d0f7f384a9b1f4f32b93d7f8, type: 3}
+    - {fileID: 2800000, guid: 3e1d0386b0373d34fae6183ac9891698, type: 3}
+    - {fileID: 2800000, guid: 70d80f9784d3e8c4e873d1233e7694aa, type: 3}
+    - {fileID: 2800000, guid: d8472d1dbd8615048b11de5a7987bb29, type: 3}
+    - {fileID: 2800000, guid: e484e2488018368419fb3ea6198489f0, type: 3}
+    - {fileID: 2800000, guid: 761c61fe9dd361d46bb5322cc5377e46, type: 3}
+    - {fileID: 2800000, guid: 2cf49d7d67b33fd4680adfc73c5a5ffb, type: 3}
+    - {fileID: 2800000, guid: 15f649e8f23314a72a516901b7f4403a, type: 3}
+    - {fileID: 2800000, guid: 03432f2ba6df19b48ab5940b9008d342, type: 3}
+    - {fileID: 2800000, guid: 48b4ef336fe9d604d84d7dd7d8fbdaa9, type: 3}
+    - {fileID: 2800000, guid: f3d394d9c7cdcac4ca9d34f4e2077853, type: 3}
+    - {fileID: 2800000, guid: 8171630673133fa4484166879003591b, type: 3}
+    - {fileID: 2800000, guid: 7e3dcc5d3e080a84bb74402700f6ef1b, type: 3}
+    - {fileID: 2800000, guid: 70aca4e3db38a464eba699571e5a2d4b, type: 3}
+    - {fileID: 2800000, guid: 9e39ae134ea4ab9469c5241cf38ccd52, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: af807ed0d0f7f384a9b1f4f32b93d7f8, type: 3}
+  - {fileID: 21300000, guid: 39254d5108ef9ee43b6e4054d882acdd, type: 3}
+  - {fileID: 21300000, guid: 9e39ae134ea4ab9469c5241cf38ccd52, type: 3}
+  - {fileID: 21300000, guid: 48b4ef336fe9d604d84d7dd7d8fbdaa9, type: 3}
+  - {fileID: 21300000, guid: 70aca4e3db38a464eba699571e5a2d4b, type: 3}
+  - {fileID: 21300000, guid: be9164643a8f5e44aa2e096d1bb9fd25, type: 3}
+  - {fileID: 21300000, guid: 8171630673133fa4484166879003591b, type: 3}
+  - {fileID: 21300000, guid: 3e1d0386b0373d34fae6183ac9891698, type: 3}
+  - {fileID: 21300000, guid: 70d80f9784d3e8c4e873d1233e7694aa, type: 3}
+  - {fileID: 21300000, guid: e484e2488018368419fb3ea6198489f0, type: 3}
+  - {fileID: 21300000, guid: 15f649e8f23314a72a516901b7f4403a, type: 3}
+  - {fileID: 21300000, guid: f3d394d9c7cdcac4ca9d34f4e2077853, type: 3}
+  - {fileID: 21300000, guid: 03432f2ba6df19b48ab5940b9008d342, type: 3}
+  - {fileID: 21300000, guid: 10f4e85b278da7444a6c6bb561d9a128, type: 3}
+  - {fileID: 21300000, guid: d8472d1dbd8615048b11de5a7987bb29, type: 3}
+  - {fileID: 21300000, guid: 7e3dcc5d3e080a84bb74402700f6ef1b, type: 3}
+  - {fileID: 21300000, guid: 2cf49d7d67b33fd4680adfc73c5a5ffb, type: 3}
+  - {fileID: 21300000, guid: f443b7cd51e618742bc7c166fd763d6b, type: 3}
+  - {fileID: 21300000, guid: 761c61fe9dd361d46bb5322cc5377e46, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Gun2
+  - BlueButton2
+  - Gun9
+  - ShopWideButtonWithShadow
+  - Gun8
+  - TurrelPicture
+  - Slider
+  - Gun3
+  - Gun4
+  - Gun6
+  - equipment_lock_icon
+  - BannerBlue
+  - Check White
+  - ButtonType3
+  - Gun5
+  - Gun7
+  - Check
+  - BlueCircle
+  - ButtonSquaerBlue
+  m_RenderDataMap: {}
+  m_Tag: GunShop
+  m_IsVariant: 0

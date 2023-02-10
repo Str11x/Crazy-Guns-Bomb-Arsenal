@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7705b984dc33638428f7ffcde183ff29, type: 3}
+  m_Name: LevelData43
+  m_EditorClassIdentifier: 
+  _enemy: {fileID: 1688093887898695410, guid: 427d82904d5417e49a87981d80fcf5d6, type: 3}
+  _newEnemy: {fileID: 2945524702666166812, guid: f0e61321b30cea0438c47d5f5f9a7911, type: 3}
+  _boss: {fileID: 7010776482192020557, guid: 9a9c790d002b19645a8708a646e1f385, type: 3}
+  _count: 6
+  _soldiersCount: 0
+  _newEnemiesCount: 7
+  _minOffsetZ: 2
+  _maxOffsetZ: 4.5
+  _bossSpeed: 2
+  _bossCount: 0
+  _enemies: []

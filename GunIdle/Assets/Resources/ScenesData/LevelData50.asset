@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7705b984dc33638428f7ffcde183ff29, type: 3}
+  m_Name: LevelData50
+  m_EditorClassIdentifier: 
+  _enemy: {fileID: 3363262445242540756, guid: 9c8c54e449060584dbed4d14e05f7334, type: 3}
+  _newEnemy: {fileID: 2945524702666166812, guid: f0e61321b30cea0438c47d5f5f9a7911, type: 3}
+  _boss: {fileID: 8052923364987951251, guid: 83d1a0e02e4b6fe47898f459d7eeeeb1, type: 3}
+  _count: 0
+  _soldiersCount: 0
+  _newEnemiesCount: 8
+  _minOffsetZ: 2
+  _maxOffsetZ: 4.5
+  _bossSpeed: 2
+  _bossCount: 5
+  _enemies: []
